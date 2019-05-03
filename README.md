@@ -1,2 +1,2 @@
 # myCV
-better Start on Iphone6 or bigger
+myMiniCV (better Start on Iphone6 or bigger)
